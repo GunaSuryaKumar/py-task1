@@ -1,5 +1,4 @@
-Yes, the Python code you've provided appears to be a functional personal assistant script. It incorporates several features like text-to-speech, speech recognition, fetching the current time and date, taking screenshots, and interacting with an AI chatbot via the Eden AI API.
-Here's a detailed README file that explains the project and how someone can work on it:
+
 # AI Personal Assistant in Python
 
 This Python script creates a basic AI personal assistant that can perform several tasks, including:
