@@ -140,7 +140,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 MIT License
 
-Copyright (c) [2025] [Your Name or Organization Name]
+Copyright (c) [2025] Guna Surya Kumar Katakam.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
