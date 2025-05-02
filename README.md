@@ -81,7 +81,7 @@ If you want to contribute to this project or work on it yourself, here's a typic
    * Open your terminal or command prompt.
    * Navigate to the directory where you want to store the project.
    * Use the git clone command with the URL of your forked repository:
-     git clone [https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git)
+     git clone https://github.com/GunaSuryaKumar/py-task1.git
 
      Replace YOUR_USERNAME with your GitHub username and REPOSITORY_NAME with the name of the repository.
  * Navigate to the Project Directory:
@@ -120,7 +120,7 @@ venv\Scripts\activate  # On Windows
    * Click "Create pull request".
  * Stay Updated:
    To keep your local repository in sync with the original repository, you can add the original repository as a remote and fetch/merge changes:
-   git remote add upstream [https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git](https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git)
+   git remote add upstream https://github.com/GunaSuryaKumar/py-task1.git
 git fetch upstream
 git merge upstream/main  # Or upstream/develop, depending on the main branch name
 
@@ -133,8 +133,31 @@ Here are some ideas for expanding this personal assistant:
  * More Sophisticated Chatbot Interaction: Explore other AI models or fine-tune the interaction with the current one.
  * GUI: Create a graphical user interface for easier interaction.
  * Task Automation: Add the ability to automate simple tasks.
-License
-[You can add a license here if you intend to open-source your project.]
 
-This README file provides a good overview of the project, instructions on how to set it up and run, guidance on how to contribute, and ideas for further development. Remember to replace placeholders like `<repository_url>` and `YOUR_EDEN_AI_API_KEY` with the actual values.
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+MIT License
+
+Copyright (c) [2025] [Your Name or Organization Name]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
 
